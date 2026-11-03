@@ -184,11 +184,19 @@ window.UNIVERSO = {
     `Yo no sé qué vaya a pasar mañana, en unas semanas, en meses o años, pero sé bien que quiero pasarlo contigo, seguir enamorándome cada día más de ti, cumplir todo lo que nos proponemos juntos, tener nuestros hijitos, nuestra casa, nuestros perritos, que tú seas una gran piloto, y yo tu ingeniero que estará acompañándote, viajar y conocer el mundo, llevarte hasta la luna, y enseñarte que mi amor llega hasta el infinito, te amo chimena, te amo por siempre, nunca lo olvides, nunca te olvides que sí te amo de verdad, que lo que siento es completamente sincero y que nadie nos quitará eso, adonde tú vas, yo voy.`,
     `Chimena y Renato por siempre chi? chii? por favor chi amor, nunca me dejes, soy tu niñito y no puedo vivir sin mi princesa, por favor nunca te vayas.`
   ],
-  galeria: [
-    {id:'g01',foto:'imagenes/foto-01.jpg',titulo:'Nuestra primera foto',texto:''}, // FALTA COMPLETAR: foto y dedicatoria.
-    {id:'g02',foto:'imagenes/foto-02.jpg',titulo:'Un recuerdo nuestro',texto:''}, // FALTA COMPLETAR: foto y dedicatoria.
-    {id:'g03',foto:'imagenes/ancon.jpg',titulo:'Un recuerdo en Ancón',texto:''}, // FALTA COMPLETAR: foto y dedicatoria.
-    {id:'g04',foto:'imagenes/inicio.jpg',titulo:'El comienzo',texto:''}, // FALTA COMPLETAR: foto y dedicatoria.
-    {id:'g05',foto:'imagenes/regalos.jpg',titulo:'Una sorpresa especial',texto:''} // FALTA COMPLETAR: foto y dedicatoria.
-  ]
+  
+galeria: [
+  {id:'g01',foto:'imagenes/inicio.jpg',titulo:'Nuestra primera foto',texto:''},
+  {id:'g02',foto:'imagenes/cine.jpg',titulo:'Nuestra salida al cine',texto:''},
+  {id:'g03',foto:'imagenes/regalos.jpg',titulo:'Un regalo muy especial',texto:''},
+  {id:'g04',foto:'imagenes/ancon.jpg',titulo:'Un recuerdo en Ancón',texto:''},
+  {id:'g05',foto:'imagenes/cositas.jpg',titulo:'Tus cositas favoritas',texto:''},
+  {id:'g06',foto:'imagenes/carinos.jpg',titulo:'Nuestros detalles',texto:''},
+  {id:'g07',foto:'imagenes/corazon.jpg',titulo:'Lo que significas para mí',texto:''},
+  {id:'g08',foto:'imagenes/suenos.jpg',titulo:'Nuestros sueños',texto:''},
+  {id:'g09',foto:'imagenes/planes.jpg',titulo:'Nuestros planes',texto:''},
+  {id:'g10',foto:'imagenes/foto-01.jpg',titulo:'Un momento nuestro',texto:''},
+  {id:'g11',foto:'imagenes/foto-02.jpg',titulo:'Un recuerdo nuestro',texto:''}
+]
+
 };
