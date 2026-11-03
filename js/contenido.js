@@ -188,7 +188,7 @@ window.UNIVERSO = {
     {id:'g01',foto:'imagenes/foto-01.jpg',titulo:'Nuestra primera foto',texto:''}, // FALTA COMPLETAR: foto y dedicatoria.
     {id:'g02',foto:'imagenes/foto-02.jpg',titulo:'Un recuerdo nuestro',texto:''}, // FALTA COMPLETAR: foto y dedicatoria.
     {id:'g03',foto:'imagenes/ancon.jpg',titulo:'Un recuerdo en Ancón',texto:''}, // FALTA COMPLETAR: foto y dedicatoria.
-    {id:'g04',foto:'imagenes/cine.jpg',titulo:'Nuestra salida al cine',texto:''}, // FALTA COMPLETAR: foto y dedicatoria.
+    {id:'g04',foto:'imagenes/inicio.jpg',titulo:'El comienzo',texto:''}, // FALTA COMPLETAR: foto y dedicatoria.
     {id:'g05',foto:'imagenes/regalos.jpg',titulo:'Una sorpresa especial',texto:''} // FALTA COMPLETAR: foto y dedicatoria.
   ]
 };
